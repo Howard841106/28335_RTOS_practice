@@ -1,2 +1,4 @@
 SYS/BIOS Product Releases:
 https://software-dl.ti.com/dsps/dsps_public_sw/sdo_sb/targetcontent/bios/sysbios/index.html
+TI-RTOS — Real-Time Operating System (RTOS) provided by Texas Instruments
+https://www.ti.com/tool/TI-RTOS-MCU#downloads
